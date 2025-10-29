@@ -22,10 +22,12 @@ interface FormData {
 }
 
 const businessSegments = [
+  "E-commerce",
   "Pet Shop",
   "Clínica de Estética",
   "Clínica de Odontologia",
   "Escritório de Advocacia",
+  "Barbearia",
   "Outro",
 ];
 
